@@ -1,0 +1,20 @@
+
+
+
+																		 _________________________ 
+																		|   |                     |
+																		| W |      move UP        |
+																		| S |     move DOWN       |
+																		| A |     move RIGHT      |
+																		| D |     move LEFT       |
+																		| N |   save INFO GAME    |
+																		| L |   load INFO GAME    |
+																		| P |     pause GAME      |
+																		| R |    resume GAME      |
+																		| M |   go to page MENU   |
+																		| E |        exit         |
+																		| 1 |     stop ROW 1      |
+																		| 2 |     stop ROW 2      |
+																		| 3 |     stop ROW 3      |
+																		| 4 |     stop ROW 4      |
+																		|___|_____________________|
